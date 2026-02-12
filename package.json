@@ -2,7 +2,7 @@
 	"name": "tutorial",
 	"version": "1.0.0",
 	"scripts": {
-		"start": "nodemon index.js"
+		"start": "node --watch server.js"
 	},
 	"dependencies": {
 		"dotenv": "^17.2.3",
